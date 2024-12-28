@@ -11,12 +11,12 @@ To ensure compliance with data privacy regulations, the source dataset cannot be
 
 ## Document Structure
 autoencoder_oop.ipynb:
-  •	A trial notebook for the first round of experiments, to get the rough and foundamental understanding of the methods.
-	•	Explores the use of an Autoencoder to generate meaningful features for fraud detection.
-	•	Includes a comparison of approaches, such as using Isolation Forest as a pre-filter before chaining it with the Autoencoder for improved detection.
+- A trial notebook for the first round of experiments, to get the rough and foundamental understanding of the methods.
+- Explores the use of an Autoencoder to generate meaningful features for fraud detection.
+- Includes a comparison of approaches, such as using Isolation Forest as a pre-filter before chaining it with the Autoencoder for improved detection.
 
 Script for the first-round trial:
-	•	Will be uploaded soon. This script will provide a streamlined implementation of the methods discussed in the initial experiments.
+- Will be uploaded soon. This script will provide a streamlined implementation of the methods discussed in the initial experiments.
 
  ## Future Work
  - Tuning hyperparameters for the Autoencoder and Isolation Forest for better performance.
