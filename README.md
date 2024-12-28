@@ -16,7 +16,7 @@ autoencoder_oop.ipynb:
 - Includes a comparison of approaches, such as using Isolation Forest as a pre-filter before chaining it with the Autoencoder for improved detection.
 
 Script for the first-round trial:
-- Will be uploaded soon. This script will provide a streamlined implementation of the methods discussed in the initial experiments.
+- Will be uploaded soon. This script will provide a streamlined implementation of data processing and the methods discussed in the initial experiments.
 
  ## Future Work
  - Tuning hyperparameters for the Autoencoder and Isolation Forest for better performance.
