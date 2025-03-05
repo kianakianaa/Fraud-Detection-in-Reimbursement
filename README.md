@@ -8,7 +8,8 @@ Due to the lack of labels, the goal is to leverage advanced unsupervised machine
 
 To complement this, we also reformulated the problem as a supervised learning task, using expense amount as the target variable. Given the significant variation in expenses across departments and business purposes (e.g., staff welfare, travel, equipment purchases), simple statistical distribution-based methods were insufficient. Instead, we implemented XGBoost regression to model these variations effectively. In this context, we define that if the predicted expense amount is much smaller than actual amount, then there is higher probability of fraud.
 
-![Methodology](https://github.com/user-attachments/assets/a3edc291-70bc-4f0f-9ac0-7d6379e2e5d8)
+![Methodology](https://github.com/user-attachments/assets/f7163740-1c44-4e74-bfa1-f2fe6f375cb9)
+
 
 
 ## Data Privacy
