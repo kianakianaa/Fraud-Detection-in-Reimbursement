@@ -1,6 +1,6 @@
 # Fraud-detection-in-reimbursement
 
-## Problem Sescription
+## Problem Description
 This project focuses on detecting fraudulent reimbursement claims from SAP. The dataset contains approximately 76 features, including but not limited to Transaction Date, Department Code, Vendor, City of Purchase, and Expense Amount. The key challenge is the absence of labeled data (i.e., whether a claim is fraudulent or not), necessitating the use of unsupervised machine learning techniques. 
 
 ## Approach
